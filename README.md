@@ -21,15 +21,6 @@ Backend Developer passionate about building robust Java & Spring Boot applicatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-salesforce.vercel.app/api?username=maciejpabijan1&show_icons=true&theme=radial" alt="Maciej's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-salesforce.vercel.app/api/top-langs/?username=maciejpabijan1&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - ✉️ **Email:** maciejpabijan1@gmail.com
